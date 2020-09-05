@@ -1,2 +1,4 @@
 FeatureA
 modify for no-FF merge practice
+hoge
+fuga

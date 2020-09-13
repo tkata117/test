@@ -4,3 +4,4 @@ hoge
 fuga
 hogehoge
 modify for pull req practice B
+pull req practice A

@@ -3,4 +3,5 @@ modify for no-FF merge practice
 hoge
 fuga
 hogehoge
+modify for pull req practice B
 pull req practice A
